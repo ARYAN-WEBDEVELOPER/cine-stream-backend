@@ -2,6 +2,16 @@
 
 Backend API for CineStream, a full-stack movie recommendation platform.
 
+## 🚀 Live Demo
+
+### Frontend
+
+https://cine-stream-frontend-snowy.vercel.app/
+
+### Backend
+
+https://cine-stream-backend-lwzn.onrender.com/
+
 ## Features
 
 * User Profile Management
